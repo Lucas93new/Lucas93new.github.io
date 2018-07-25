@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lucas93new.github.io/sitemap.xml
